@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=rawfishy&label=ㅤ⟢✒️゛&color=3b3b47)
+![](https://komarev.com/ghpvc/?username=rawfishy&label=ㅤ𝑠𝑒𝑎𝑟𝑐ℎ𝑒𝑟𝑠ㅤ&color=3b3b47)
 
 wip ignore this
 
