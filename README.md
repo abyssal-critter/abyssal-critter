@@ -2,7 +2,6 @@
   
 ![](https://komarev.com/ghpvc/?username=rawfishy&label=&color=3b3b47)
 
-ill redo all of this soon trust
 
 
     
@@ -13,6 +12,6 @@ ill redo all of this soon trust
 
 
 
-[𝑠𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒](https://fishedd.straw.page/)
+꒰𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾꒱(https://fishedd.straw.page/)
 
-[𝑎𝑡𝑎𝑏𝑜𝑜𝑘](https://fishedd.atabook.org/)
+꒰𝖺𝗍𝖺𝖻𝗈𝗈𝗄꒱(https://fishedd.atabook.org/)
