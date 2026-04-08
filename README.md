@@ -6,7 +6,7 @@
 
     
 <p align="center">
-<img width=”500” height=”500” alt="Untitled design" src="https://github.com/user-attachments/assets/708102dd-22b2-468b-9a74-c3d150346fd8" />
+<img width=”300” height=”300” alt="Untitled design" src="https://github.com/user-attachments/assets/708102dd-22b2-468b-9a74-c3d150346fd8" />
 
 
 
