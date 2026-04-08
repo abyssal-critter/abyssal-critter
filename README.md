@@ -9,7 +9,7 @@
 
 
 
-[𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾](https://abyssalcritter.straw.page/)
+[𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾](https://abyssal-critter.straw.page/)
 
 [𝖺𝗍𝖺𝖻𝗈𝗈𝗄](https://abyssal-critter.atabook.org/)
 
