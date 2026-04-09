@@ -6,9 +6,9 @@
 
     
 <p align="center">
-<img width=”300” height=”300” alt="Untitled design" src="https://github.com/user-attachments/assets/708102dd-22b2-468b-9a74-c3d150346fd8" />
+<img width="450" height="1500" alt="image (2)__fliter--blackCurrant-and-mint__channel--all__mode--color-burn(1)" src="https://github.com/user-attachments/assets/a351d54b-f88c-4626-a5b4-3d737b10faa3" />
 
-ts looks so half assed i swear ill fix it soon
+
 
 
 
