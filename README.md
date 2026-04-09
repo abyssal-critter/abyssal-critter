@@ -15,7 +15,7 @@
 </div>
 
   <p align="center">
-<img width="450" height="1500" alt="image (2)__fliter--blackCurrant-and-mint__channel--all__mode--color-burn(1)" src="https://github.com/user-attachments/assets/a351d54b-f88c-4626-a5b4-3d737b10faa3" />
+<img width="460" height="1500" alt="image (2)__fliter--blackCurrant-and-mint__channel--all__mode--color-burn(1)" src="https://github.com/user-attachments/assets/a351d54b-f88c-4626-a5b4-3d737b10faa3" />
 
 
 
