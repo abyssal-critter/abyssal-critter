@@ -28,3 +28,7 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  
+  [strawpage](https://abyssal-critter.straw.page/) ⠀ ⠀[atabook](https://abyssal-critter.atabook.org/)
